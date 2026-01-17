@@ -1,0 +1,5 @@
+This folder contains the Python notebook used for one-time synthetic data generation.
+
+- **Data_Generation.ipynb**: Uses Python libraries (Pandas, Faker) to generate realistic UAE retail sales, customer, product, and store data.
+
+The notebook is included for transparency and reproducibility; all analysis and visualization are performed in Excel.
