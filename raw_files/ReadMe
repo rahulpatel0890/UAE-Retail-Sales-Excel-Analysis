@@ -1,0 +1,15 @@
+This folder contains raw sales transaction files used as the source data.
+
+Each file represents transaction-level sales data for a specific emirate or store.
+
+Files include:
+- Sales_Transactions_AJM_01.xlsx
+- Sales_Transactions_AUH_01.xlsx
+- Sales_Transactions_DXB_01.xlsx
+- Sales_Transactions_DXB_02.xlsx
+- Sales_Transactions_FUJ_01.xlsx
+- Sales_Transactions_RAK_01.xlsx
+- Sales_Transactions_SHJ_01.xlsx
+- Sales_Transactions_UAQ_01.xlsx
+
+All raw files are appended and consolidated during the data cleaning process.
