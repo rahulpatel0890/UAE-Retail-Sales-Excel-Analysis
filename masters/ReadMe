@@ -1,0 +1,8 @@
+This folder contains master reference data files used in the analysis.
+
+- **Customer_Master.xlsx**: Customer demographic and behavioral data.
+- **Employee_Master.xlsx**: Store-level employee information.
+- **Product_Master.xlsx**: Product classification, pricing, and VAT details.
+- **Store_Master.xlsx**: Store location and operational attributes.
+
+These files are used as dimension tables in the data model.
