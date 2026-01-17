@@ -1,0 +1,5 @@
+This folder contains the primary Excel analysis file.
+
+- **Analysis_Master.xlsx**: Includes data cleaning (Power Query), relational data modeling (Power Pivot), DAX-based KPIs, exploratory analysis, and the final executive dashboard.
+
+Backend, EDA, and Power Query sheets are intentionally hidden to maintain a clean dashboard experience.
