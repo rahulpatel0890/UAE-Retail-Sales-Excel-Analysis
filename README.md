@@ -139,7 +139,7 @@ Data Modeling
 The dashboard presents key retail KPIs, sales trends, regional performance, product contribution, and margin analysis. Interactive slicers allow filtering by year, category, and emirate to support executive-level decision-making. 
 The dashboard is supported by hidden EDA and backend sheets to ensure a clean executive-facing layout.
 
-![UAE Retial Sales Dashboard Preview](assets/UAE_Retail_Sales_Excel_Dashboard.png)
+![UAE Retail Sales Dashboard Preview](assets/UAE_Retail_Sales_Excel_Dashboard.png)
 
 ---
 <h2><a class="anchor" id="project-structure"></a>Project Structure</h2>
